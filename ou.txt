@@ -1,0 +1,14 @@
+PS C:\xmamp\htdocs\html1> python transcrip.py -t 7 
+* recording
+hi 
+hi 
+hi how 
+hi how are 
+hi how are 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
