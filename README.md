@@ -1,9 +1,8 @@
 # SpeechToText
+This repository is about transcribe from Speech to Text using the websockets streaming API.
 
-Watson Streaming Speech to Text Example
-The following is an example of using Watson to real time transcribe from Speech to Text using the websockets streaming API.
 
-Installation
+
 This code is designed to run under python3 in a virtualenv. In order to get started you need to run the following:
 
 virtualenv -p python3 .venv
