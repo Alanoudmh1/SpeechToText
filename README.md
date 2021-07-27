@@ -1,5 +1,5 @@
 # SpeechToText
-This repository is about transcribe from Speech to Text using the websockets streaming API.
+This repository is about Convert from Speech to Text using the websockets streaming API.
 
 
 
